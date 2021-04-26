@@ -5,4 +5,4 @@ function imprimeHasta(x) {
 }
 imprimeHasta(1000000); // debe imprimir todos los enteros desde el 1 hasta el 1000000
 y = imprimeHasta(-10); 
-console.log(y); // debe imprimir 'false'
+console.log(y); // debe imprimir 'false'just a test testing a lot
